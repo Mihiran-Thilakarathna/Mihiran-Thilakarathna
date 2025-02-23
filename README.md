@@ -31,7 +31,6 @@
 </table>
 
 ---
-
 <h3 align="center">My Statistics:</h3>
 
 <p align="center">
@@ -47,15 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mihiran-Thilakarathna&theme=tokyonight" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mihiran-Thilakarathna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
