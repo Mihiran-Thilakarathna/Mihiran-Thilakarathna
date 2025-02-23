@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Mihiran-Thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Mihiran-Thilakarathna" /> </p>
 
 <table align="center">
-<tr border="none">
+<tr border="none">  
 <td width="50%" align="left">
   
 ---
@@ -32,13 +32,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihiran-Thilakarathna&theme=dark&hide_border=false" /> 
-  <br><br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&theme=tokyonight) 
-  <br><br>
+  ![Mihiran-Thilakarathna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&theme=tokyonight)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight)
 </td>
 </tr>
@@ -56,8 +51,11 @@
   <a href="https://github.com/Mihiran-Thilakarathna" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" width="50" /></a> 
     
-  <a href="https://www.thecn.com/TW960" target="blank">
+  <a href="https://www.thecn.com/MT1347" target="blank">
     <img align="center" src="https://www.thecn.com/img/com/icon/home-cn-logo-s.png.w128h128.jpg" alt="thecn" height="50" width="50" /></a>  
+
+  <a href="https://codecrazeteam.blogspot.com/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 </p>
 
 ---
