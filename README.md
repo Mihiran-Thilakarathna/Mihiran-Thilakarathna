@@ -18,7 +18,7 @@
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**  
 - 🌱 I’m currently learning **Image Processing**  
 - 💻 I have experience in **C, C++, JavaScript, Python**  
-- 🔍 Interested in **Computer Vision, Web Development and Software Development**  
+- 🔍 Interested in **Computer Vision, Web Development, and Software Development**  
 - 👨‍💻 How to reach me **thmthilakarathna@gmail.com**  
 
 ---
@@ -107,3 +107,12 @@
     </a>
 </p>
 
+---
+
+<h3 align="center">🐍 Watch my contributions get eaten by a snake:</h3>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
