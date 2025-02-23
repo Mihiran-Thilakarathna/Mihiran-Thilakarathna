@@ -75,36 +75,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/>
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50"/>
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/>
-    </a>  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/>
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/>
-    </a> 
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite"/>
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/>
-    </a> 
-    <a href="https://www.qt.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-    </a>
-    <a href="https://jupyter.org/" target="_blank">
-        <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter"/>
-    </a>
+     <img src="https://skillicons.dev/icons?i=c,cpp,css,anaconda,flutter,androidstudio,dotnet,mysql,postgresql,git,mongodb,github,html,java,js,nodejs,py,react,bootstrap,pycharm,vscode,php,python,phpstorm,androidstudio=14" />
 </p>
 
 ---
