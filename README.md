@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight&v=1" alt="Profile Summary" />
 </p>
 
 ---
