@@ -1,11 +1,14 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<div><p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Mihiran Thilakarathna</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mihiran-Thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Mihiran-Thilakarathna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mihiran-Thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Mihiran-Thilakarathna" /></p>
+</div>
 
+<div>
 ![Mihiran-Thilakarathna's github stats](https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight)
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
