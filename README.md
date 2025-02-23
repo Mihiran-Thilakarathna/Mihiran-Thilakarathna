@@ -15,11 +15,11 @@
 
 ---
 
-- 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**  
-- 🌱 I’m currently learning **Image Processing**  
-- 💻 I have experience in **C, C++, JavaScript, Python**  
-- 🔍 Interested in **Computer Vision, Web Development, and Software Development**  
-- 👨‍💻 How to reach me **thmthilakarathna@gmail.com**  
+- 🧑‍🎓 Undergraduate at **Rajarata University of Sri Lanka**
+- 🌱 Currently learning **Image Processing**
+- 💻 Proficient in **C, C++, JavaScript, Python**
+- 🔍 Passionate about **Computer Vision, Web Development, and Software Development**
+- ✨ Believes in the power of technology to **solve real-world problems and improve lives.**
 
 ---
 
