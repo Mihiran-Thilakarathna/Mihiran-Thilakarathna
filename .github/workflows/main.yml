@@ -9,11 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # Action එකට අවශ්‍ය අවසරය ලබා දෙන කොටස
+
+    # Add this permissions block to grant write access
     permissions:
       contents: write
-      
+
     steps:
       - uses: actions/checkout@v3
 
