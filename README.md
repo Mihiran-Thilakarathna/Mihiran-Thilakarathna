@@ -34,19 +34,19 @@
 <h3 align="center">My Statistics:</h3>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight&cache_seconds=3600&dummy=123" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Mihiran Thilakarathna's GitHub Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&layout=compact&theme=tokyonight&cache_seconds=3600&dummy=123" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.vercel.app/?user=Mihiran-Thilakarathna&theme=tokyonight&cache_seconds=3600&dummy=123" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Mihiran-Thilakarathna&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight&v=1&dummy=123" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight&v=1" alt="Profile Summary" />
 </p>
 ---
 
