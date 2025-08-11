@@ -9,6 +9,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Action එකට අවශ්‍ය අවසරය ලබා දෙන කොටස
+    permissions:
+      contents: write
+      
     steps:
       - uses: actions/checkout@v3
 
