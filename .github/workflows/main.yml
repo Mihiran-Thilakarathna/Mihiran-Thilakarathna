@@ -2,18 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every 6 hours
-    - cron: '0 */6 * * *'
+    # Runs every hour
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    # Add this permissions block to grant write access
+    
     permissions:
       contents: write
-
+      
     steps:
       - uses: actions/checkout@v3
 
