@@ -34,7 +34,7 @@
 <h3 align="center">My Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Mihiran Thilakarathna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -42,12 +42,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Mihiran-Thilakarathna&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihiran-Thilakarathna&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight&v=1" alt="Profile Summary" />
 </p>
+
 ---
 
 <h3 align="center">Connect with me:</h3>
