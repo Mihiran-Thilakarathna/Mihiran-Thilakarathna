@@ -1,92 +1,81 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&reversal=true" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Mihiran Thilakarathna</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mihiran-Thilakarathna&label=Profile%20views&color=0e75b6&style=flat" alt="Mihiran-Thilakarathna" />
-</p>
-
-<table align="center">
-<tr border="none">  
-<td width="50%" align="left">
-
----
-
-- 🧑‍🎓 Undergraduate at **Rajarata University of Sri Lanka**
-- 🌱 Currently learning **Image Processing**
-- 💻 Proficient in **C, C++, JavaScript, Python**
-- 🔍 Passionate about **Computer Vision, Web Development, and Software Development**
-- ✨ Believes in the power of technology to **solve real-world problems and improve lives.**
-
----
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-</tr>
-</table>
-
----
-<h3 align="center">My Statistics:</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mihiran Thilakarathna</h1>
+<h3 align="center">IT Student | Future Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihiran-Thilakarathna&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=tokyonight&v=1" alt="Profile Summary" />
-</p>
-
----
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mihiran-thilakarathna-9478302a8" target="blank">
-    <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" />
-  </a>
-  
-  <a href="https://www.facebook.com/share/1F9v3MWQih/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="50" width="50" />
-  </a>
-
-  <a href="https://github.com/Mihiran-Thilakarathna" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="50" width="50" />
-  </a> 
-    
-  <a href="https://www.thecn.com/MT1347" target="blank">
-    <img align="center" src="https://www.thecn.com/img/com/icon/home-cn-logo-s.png.w128h128.jpg" alt="thecn" height="50" width="50" />
-  </a>  
-
-  <a href="https://codecrazeteam.blogspot.com/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+%40+Rajarata+University+of+Sri+Lanka;Passionate+about+Tech+%7C+Web+%26+AI" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-     <img src="https://skillicons.dev/icons?i=c,cpp,css,anaconda,flutter,androidstudio,dotnet,mysql,postgresql,git,mongodb,github,html,java,js,nodejs,py,react,bootstrap,pycharm,vscode,php,python,phpstorm,androidstudio=14" />
+<p align="center">
+  <em>
+    I'm Mihiran, an undergraduate at <a href="https://www.rjt.ac.lk/"><b>Rajarata University of Sri Lanka</b></a>.<br>
+    An inquisitive <b>IT student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> passionate about <b>Software Engineering</b> and <b>Computer Vision</b>.<br>
+    🚀 Always <b>exploring</b> new technologies <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/rocket.gif" width="18px">, <b>building</b> innovative solutions <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/lightning.gif" width="24px">, and <b>learning</b> every day <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Book.gif" width="24px">.<br>
+    🌐 I love using technology to <b>solve real-world challenges</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/world.gif" width="22px">, collaborating with others <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="22px">, and sharing knowledge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Pointing.gif" width="22px">.<br>
+    🏆 My motto: <b>Grow, Excel, and Make a Difference</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> while having fun along the way!<br>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Innovate, Collaborate, Celebrate!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  </em>
 </p>
 
----
 
-<h3 align="center">🐍 Watch my contributions get eaten by a snake:</h3>
+
+<hr>
 
 <div align="center">
-  <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mihiran-Thilakarathna/Mihiran-Thilakarathna/output/github-contribution-grid-snake.svg" />
-  <br/>
+  <h2>🤝 Connect With Me</h2>
+  <a href="https://www.linkedin.com/in/mihiran-thilakarathna-9478302a8" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/Mihiran-Thilakarathna" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.facebook.com/share/1F9v3MWQih/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://codecrazeteam.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger"></a>
+  <a href="https://www.thecn.com/MT1347" target="_blank"><img src="https://img.shields.io/badge/theCN-00AEEF?style=for-the-badge&logo=the-conversation&logoColor=white" alt="theCN"></a>
+</div>
+
+<hr>
+
+<div align="center">
+  <h2>👨‍💻 My Tech Stack</h2>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,php,react,nodejs,flutter,bootstrap,mysql,postgresql,mongodb,git,github,androidstudio,vscode,pycharm,phpstorm,anaconda,dotnet&perline=14" />
+    </a>
+  </p>
+</div>
+
+<hr>
+
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/BarChart.gif" width="35" />
+  <br><br>
+  
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mihiran-Thilakarathna&theme=algolia&show_icons=true&hide_border=true&count_private=true" alt="Mihiran's GitHub Stats" />
+    &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihiran-Thilakarathna&theme=algolia&show_icons=true&hide_border=true&layout=compact" alt="Mihiran's Top Languages" />
+  </p>
+  
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mihiran-Thilakarathna&theme=algolia&hide_border=true" alt="Mihiran's Streak" />
+  </p>
+  
+  <p>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mihiran-Thilakarathna&theme=github_dark" alt="Mihiran's Profile Summary" />
+  </p>
+</div>
+
+<br>
+<hr>
+
+<div align="center">
+  <h2>🐍 My Contribution Graph</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Mihiran-Thilakarathna/Mihiran-Thilakarathna/output/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&reversal=true&section=footer" />
 </div>
