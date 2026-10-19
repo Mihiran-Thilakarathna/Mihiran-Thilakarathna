@@ -5,10 +5,10 @@
 </a>
 
 <p align="center">
-  <a href="https://mihiran.me"><img src="./assets/badge-portfolio.svg" height="42" alt="Portfolio: mihiran.me" /></a>
+  <a href="https://mihiran.me"><img src="./assets/badge-portfolio.svg" height="42" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mihiran-thilakarathna"><img src="./assets/badge-linkedin.svg" height="42" alt="LinkedIn" /></a>
-  <a href="mailto:thmthilakarathna@gmail.com"><img src="./assets/badge-email.svg" height="42" alt="Email: thmthilakarathna@gmail.com" /></a>
-  <a href="https://wa.me/94760453356"><img src="./assets/badge-whatsapp.svg" height="42" alt="WhatsApp: 076 045 3356" /></a>
+  <a href="mailto:thmthilakarathna@gmail.com"><img src="./assets/badge-email.svg" height="42" alt="Email" /></a>
+  <a href="https://wa.me/94760453356"><img src="./assets/badge-whatsapp.svg" height="42" alt="WhatsApp" /></a>
 </p>
 
 <!-- ═══════════════════════════  01 · ABOUT  ═══════════════════════════ -->
