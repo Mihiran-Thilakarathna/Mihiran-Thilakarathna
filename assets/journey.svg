@@ -37,33 +37,33 @@
 <path d="M40 430 C100 420 140 350 190 340 C240 330 380 170 470 180 C560 190 680 320 760 310 C840 300 990 160 1070 170 C1150 180 1165 100 1170 60" fill="none" stroke="url(#route)" stroke-width="3" stroke-linecap="round" stroke-dasharray="1340">
   <animate attributeName="stroke-dashoffset" values="1340;0;0" keyTimes="0;.92;1" dur="10s" repeatCount="indefinite"/></path>
 <line x1="190" y1="370" x2="245" y2="372" stroke="#F7941D" stroke-opacity=".55" stroke-dasharray="3 4"/><g class="card" style="animation-delay:0.20s">
-  <rect x="215" y="372" width="296" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
+  <rect x="215" y="372" width="320" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
   <rect x="215" y="386" width="4" height="68" rx="2" fill="#F7941D"/>
   <text x="235" y="398" font-size="11" fill="#F7941D" letter-spacing="1" class="m">LVL 01 · EDUCATION</text>
-  <text x="495" y="398" font-size="11" fill="#8b95a7" text-anchor="end" class="m">2019 — 2021</text>
-  <text x="235" y="428" font-size="16.5" font-weight="700" fill="#e6e9f0">A/L Engineering Technology</text>
+  <text x="519" y="398" font-size="11" fill="#8b95a7" text-anchor="end" class="m">2019 — 2021</text>
+  <text x="235" y="428" font-size="15.5" font-weight="700" fill="#e6e9f0">A/L Engineering Technology Stream</text>
   <text x="235" y="451" font-size="13.5" fill="#8b95a7">R/Eheliyagoda National College</text>
 </g><line x1="470" y1="152" x2="470" y2="126" stroke="#7cc0ff" stroke-opacity=".55" stroke-dasharray="3 4"/><g class="card" style="animation-delay:0.38s">
-  <rect x="335" y="30" width="296" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
+  <rect x="335" y="30" width="320" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
   <rect x="335" y="44" width="4" height="68" rx="2" fill="#7cc0ff"/>
   <text x="355" y="56" font-size="11" fill="#7cc0ff" letter-spacing="1" class="m">LVL 02 · WORK</text>
-  <text x="615" y="56" font-size="11" fill="#8b95a7" text-anchor="end" class="m">DEC 2022 — JUL 2023</text>
-  <text x="355" y="86" font-size="16.5" font-weight="700" fill="#e6e9f0">Trainee</text>
+  <text x="639" y="56" font-size="11" fill="#8b95a7" text-anchor="end" class="m">DEC 2022 — JUL 2023</text>
+  <text x="355" y="86" font-size="15.5" font-weight="700" fill="#e6e9f0">Trainee</text>
   <text x="355" y="109" font-size="13.5" fill="#8b95a7">People's Bank · Avissawella</text>
 </g><line x1="760" y1="346" x2="760" y2="362" stroke="#F7941D" stroke-opacity=".55" stroke-dasharray="3 4"/><g class="card" style="animation-delay:0.56s">
-  <rect x="640" y="362" width="296" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
+  <rect x="640" y="362" width="320" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
   <rect x="640" y="376" width="4" height="68" rx="2" fill="#F7941D"/>
   <text x="660" y="388" font-size="11" fill="#F7941D" letter-spacing="1" class="m">LVL 03 · EDUCATION</text>
-  <text x="920" y="388" font-size="11" fill="#8b95a7" text-anchor="end" class="m">2022 — 2026</text>
-  <text x="660" y="418" font-size="16.5" font-weight="700" fill="#e6e9f0">BSc in Information Technology</text>
+  <text x="944" y="388" font-size="11" fill="#8b95a7" text-anchor="end" class="m">2022 — 2026</text>
+  <text x="660" y="418" font-size="15.5" font-weight="700" fill="#e6e9f0">BSc in Information Technology</text>
   <text x="660" y="441" font-size="13.5" fill="#8b95a7">Rajarata University of Sri Lanka</text>
-</g><line x1="1070" y1="138" x2="1026" y2="122" stroke="#7cc0ff" stroke-opacity=".55" stroke-dasharray="3 4"/><g class="card" style="animation-delay:0.74s">
-  <rect x="760" y="26" width="296" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
-  <rect x="760" y="40" width="4" height="68" rx="2" fill="#7cc0ff"/>
-  <text x="780" y="52" font-size="11" fill="#7cc0ff" letter-spacing="1" class="m">LVL 04 · WORK</text>
-  <text x="1040" y="52" font-size="11" fill="#8b95a7" text-anchor="end" class="m">APR — OCT 2026</text>
-  <text x="780" y="82" font-size="16.5" font-weight="700" fill="#e6e9f0">Software Development Intern</text>
-  <text x="780" y="105" font-size="13.5" fill="#8b95a7">iGroup Solutions · Karandeniya</text>
+</g><line x1="1070" y1="138" x2="1035" y2="122" stroke="#7cc0ff" stroke-opacity=".55" stroke-dasharray="3 4"/><g class="card" style="animation-delay:0.74s">
+  <rect x="745" y="26" width="320" height="96" rx="14" fill="#0f1524" fill-opacity=".92" stroke="#1f2a44"/>
+  <rect x="745" y="40" width="4" height="68" rx="2" fill="#7cc0ff"/>
+  <text x="765" y="52" font-size="11" fill="#7cc0ff" letter-spacing="1" class="m">LVL 04 · WORK</text>
+  <text x="1049" y="52" font-size="11" fill="#8b95a7" text-anchor="end" class="m">APR — OCT 2026</text>
+  <text x="765" y="82" font-size="15.5" font-weight="700" fill="#e6e9f0">Software Development Intern</text>
+  <text x="765" y="105" font-size="13.5" fill="#8b95a7">iGroup Solutions · Karandeniya</text>
 </g><g>
   <circle cx="190" cy="340" r="58" fill="url(#halo)" class="flash" style="animation-delay:1.22s"/>
   <circle cx="190" cy="340" r="32" fill="none" stroke="#F7941D" stroke-opacity=".5" class="ring" style="animation-delay:0.0s"/>
