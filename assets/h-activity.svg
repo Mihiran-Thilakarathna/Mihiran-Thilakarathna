@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84" font-family="'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif">
+<style>
+.m{font-family:'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace}
+.sq{transform-box:fill-box;transform-origin:center;animation:sq 3s ease-in-out infinite}
+@keyframes sq{0%,100%{transform:rotate(0)}50%{transform:rotate(90deg);fill:#7cc0ff}}
+.beam{animation:beam 3.5s ease-in-out infinite}
+@keyframes beam{to{transform:translateX(1034px)}}
+</style>
+<defs><linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#F7941D" stop-opacity="0"/><stop offset=".5" stop-color="#F7941D"/><stop offset="1" stop-color="#7cc0ff" stop-opacity="0"/></linearGradient>
+<clipPath id="ln"><rect x="386" y="40" width="794" height="6"/></clipPath></defs>
+<rect x="20" y="30" width="14" height="14" rx="3" fill="#F7941D" class="sq"/>
+<text x="46" y="44" font-size="16" fill="#F7941D" class="m">04</text>
+<text x="100" y="52" font-size="32" font-weight="700" fill="#e6e9f0">GitHub Activity</text>
+<line x1="386" y1="43" x2="1180" y2="43" stroke="#1f2a44" stroke-width="2"/>
+<g clip-path="url(#ln)"><rect class="beam" x="166" y="41" width="220" height="4" rx="2" fill="url(#beam)"/></g>
+<text x="1180" y="30" font-size="14" fill="#8b95a7" text-anchor="end" class="m">commits &amp; streaks</text>
+
+</svg>
