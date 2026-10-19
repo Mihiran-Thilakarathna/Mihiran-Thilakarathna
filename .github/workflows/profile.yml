@@ -17,19 +17,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build stats dashboard
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-dark&color_snake=#F7941D&color_dots=#161b2e,#0e3a5c,#0e75b6,#4fa3e0,#7cc0ff&color_background=#0b0f18
+
+      - name: Build stats dashboard & frame the snake
         env:
           GH_USER: ${{ github.repository_owner }}
           # Optional: add a personal access token as the GH_STATS_TOKEN secret to include private repos & contributions
           GH_TOKEN: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: python .github/scripts/build_stats.py dist
-
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=#F7941D&color_dots=#161b2e,#0e3a5c,#0e75b6,#4fa3e0,#7cc0ff&color_background=#0b0f18
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
