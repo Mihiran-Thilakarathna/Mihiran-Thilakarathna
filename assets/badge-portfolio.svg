@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="261" height="44" viewBox="0 0 261 44"><rect x="1" y="1" width="259" height="42" rx="21" fill="#0b0f18" stroke="#24304d" stroke-width="1.5"/>
-<g transform="translate(14,10)"><circle cx="12" cy="12" r="9" fill="none" stroke="#F7941D" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="#F7941D" stroke-width="2"/><path d="M3 12 h18 M4.5 7.5 h15 M4.5 16.5 h15" stroke="#F7941D" stroke-width="1.5"/></g>
-<text x="46" y="27.5" font-size="13" font-weight="700" fill="#e6e9f0" letter-spacing="1.5" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace">PORTFOLIO</text>
-<rect x="140" y="5" width="116" height="34" rx="17" fill="#F7941D"/>
-<text x="198" y="27.5" font-size="14" font-weight="700" fill="#0b0f18" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace">mihiran.me</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="44" viewBox="0 0 164 44"><rect x="1" y="1" width="162" height="42" rx="21" fill="#F7941D"/>
+<circle cx="22" cy="22" r="16" fill="#ffffff"/>
+<g transform="translate(10,10)"><circle cx="12" cy="12" r="9" fill="none" stroke="#F7941D" stroke-width="2"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="#F7941D" stroke-width="2"/><path d="M3 12 h18 M4.5 7.5 h15 M4.5 16.5 h15" stroke="#F7941D" stroke-width="1.5"/></g>
+<text x="48" y="27.5" font-size="14" font-weight="800" fill="#0b0f18" letter-spacing="1.6" font-family="'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace">PORTFOLIO</text></svg>
